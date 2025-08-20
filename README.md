@@ -25,4 +25,4 @@
 - 기간: 2025년 8월
 - 프로젝트 주제 : 온라인 학생 구독 플랫폼 이탈 여부 예측  
 - 역할: 데이터 전처리, 머신러닝 모델 구축 및 평가, 리드미 작성 
-- 링크: 
+- 링크: https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-2nd-3Team
