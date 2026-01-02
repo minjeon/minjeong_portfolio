@@ -35,14 +35,14 @@
 
 ### 🔹 SKN 4차 단위 프로젝트
 - 기간 : 2025/10/23-2025/10/27
-- 프로젝트 주제 : 초보 운전자들을 위한 운전 어시스턴트 웬페이지
-- 역할 : RDS를 활용해 데이터 베이스 구축, css, js, django를 활용해 웹페이지 UI 구축
+- 프로젝트 주제 : 초보 운전자들을 위한 운전 어시스턴트 웹페이지
+- 역할 : RDS를 활용한 데이터 베이스 구축, css, js, django를 활용해 웹페이지 UI 구축
 - 링크 : https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-4th-5Team
 
 ### 🔹 SKN FIANL 프로젝트
 - 기간 : 2025/10/28-2025/12/18
 - 프로젝트 주제 : 야구 AI 해설위원
-- 역할 : 
+- 역할 : 데이터 수집 및 가공, 해설위원 페르소나 모델 파인튜닝 
 - 링크 : https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN17-FINAL-3Team
 
 
